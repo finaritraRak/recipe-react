@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "id": 8,
+      "nom": "fezfezfezf",
+      "category": "fezfzefze",
+      "description": "fezfzefezf",
+      "content": "fezfezfezfoijpojpojpojpojpojpopopoojoppopo"
+    },
+    {
+      "nom": "fbd",
+      "category": "bdfbdbfdb",
+      "description": "bdfbfd",
+      "content": "fbfdb",
+      "id": 10
+    },
+    {
+      "nom": "gergregerg",
+      "category": "gregreg",
+      "description": "regerg",
+      "content": "gregerg",
+      "id": 11
+    },
+    {
+      "nom": "regergerg",
+      "category": "reghertehet",
+      "description": "hrthethertehrth",
+      "content": "rthezhthrth",
+      "id": 12
+    },
+    {
+      "nom": "trhgerhe",
+      "category": "herhreh",
+      "description": "thtrhtrh",
+      "content": "grgreg",
+      "id": 13
+    }
+  ],
+  "blog": [
+    {
+      "nom": "fezfezfezf",
+      "category": "fezfzefze",
+      "description": "fezfzefezf",
+      "content": "fezfezfezf",
+      "id": 1
+    },
+    {
+      "nom": "grregreg",
+      "category": "rfgzeg",
+      "description": "gerghrhre",
+      "content": "rgrehrhe",
+      "id": 2
+    },
+    {
+      "nom": "dyufuyfuifyufyufyufyufuyfuyfuyfyufyu",
+      "category": "yufyufifuf",
+      "description": "tydfuyrf_è",
+      "content": "yfiufguififif\nyfufyufufuigiguiygiugiguig",
+      "id": 3
+    }
+  ],
+  "gallery": [
+    {
+      "nom": "fezfezfezf",
+      "category": "fezfzefze",
+      "description": "fezfzefezf",
+      "content": "clem.jpg",
+      "id": 1
+    },
+    {
+      "nom": "vdsdfefzee",
+      "category": "rgergr",
+      "description": "rgergerg",
+      "content": "C:\\fakepath\\lemuriens-3737012.jpg",
+      "id": 2
+    }
+  ]
+}

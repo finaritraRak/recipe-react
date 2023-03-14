@@ -1,0 +1,33 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-top: 1px;
+  background-color:#fff;
+  font-family: Roboto, sans-serif;
+  height: 100vh;
+
+   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.btn{
+  margin: 2px;
+}
+
+.divbtn{
+  float: left;
+}
+
+.global-container {
+  max-width: 700px;
+  margin: 0 auto;
+}
